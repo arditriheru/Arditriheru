@@ -20,7 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: arditriheruh@gmail.com;
-- 📝 [Portfolio](https://arditriheru.com).
+- 📝 [Portfolio](https://arditriheru.com);
 
 </br>
 
