@@ -11,7 +11,7 @@ I am a full-stack software developer. I love programming, writing and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/arditriheru/arditriheru/blob/main/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/arditriheru/arditriheru/blob/main/coding.gif" width="auto" height="300" />
   
 
 **Talking about Personal Stuffs:**
@@ -23,27 +23,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📝 [Portfolio](https://arditriheru.com);
 
 </br>
-
-<p align="center">
-<a href="https://github.com/arditriheru/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/arditriheru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
-</a>
-<a href="https://github.com/arditriheru/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/arditriheru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/arditriheru/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/arditriheru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/arditriheru/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/arditriheru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/arditriheru/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/arditriheru/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
-</p>
 
 📈 **My GitHub Stats:**
 
