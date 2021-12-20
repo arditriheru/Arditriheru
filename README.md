@@ -24,6 +24,14 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br></br></br></br></br>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arditriheru)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arditriheru)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arditriheru&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arditriheru)
+
 📈 **My GitHub Stats:**
 
 <p>
