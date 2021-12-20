@@ -13,6 +13,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/arditriheru/arditriheru/blob/main/coding.gif" width="auto" height="220" />
   
+<br/>
 
 **Talking about Personal Stuffs:**
 
