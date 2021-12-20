@@ -24,11 +24,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br></br></br></br></br>
 
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arditriheru&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arditriheru&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arditriheru)
+</p>
 
 📈 **My GitHub Stats:**
 
