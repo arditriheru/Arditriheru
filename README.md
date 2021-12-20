@@ -22,7 +22,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 📫 How to reach me: arditriheruh@gmail.com;
 - 📝 [Portfolio](https://arditriheru.com);
 
-</br></br></br></br></br>
+</br>
 
 <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=arditriheru"/>
 
