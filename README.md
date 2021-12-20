@@ -24,8 +24,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br></br></br></br></br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arditriheru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arditriheru)
 
 📈 **My GitHub Stats:**
