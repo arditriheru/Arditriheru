@@ -11,7 +11,7 @@ I am a full-stack software developer. I love programming, writing and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/arditriheru/arditriheru/blob/main/coding.gif" width="auto" height="200" />
+<img align="right" alt="GIF" src="https://github.com/arditriheru/arditriheru/blob/main/coding.gif" width="auto" height="220" />
   
 
 **Talking about Personal Stuffs:**
