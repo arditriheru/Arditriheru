@@ -15,7 +15,6 @@ As a software developer, I enjoy using my obsessive attention to detail, my uneq
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool.
-- 🚀 I’m currently learning Data Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me : arditriheruh@gmail.com.
 - 📝 [Portfolio](https://arditriheru.com).
