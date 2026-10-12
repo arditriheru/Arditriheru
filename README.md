@@ -41,7 +41,8 @@ I enjoy turning business processes into **simple, scalable, and maintainable sof
 ### 🚀 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind" />
+<img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="48" alt="CodeIgniter" />
 </p>
 
 ### 🗄️ Database
