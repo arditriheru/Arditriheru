@@ -48,14 +48,28 @@ I enjoy turning business processes into **simple, scalable, and maintainable sof
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://cdn.simpleicons.org/mariadb/003545" height="48" alt="MariaDB" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="48" alt="Google Sheets" />
 </p>
 
 ### ⚙️ Tools & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode" />
-</p>
+### Backend Development
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,go,nodejs" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,tailwind,sass" />
+
+### Database & Spreadsheet
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+<img src="https://cdn.simpleicons.org/mariadb/003545" height="48" alt="MariaDB" />
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="48" alt="Microsoft Excel" />
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" height="48" alt="Google Sheets" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,ubuntu,nginx,apache,postman,vscode,phpstorm,bash,powershell" />
 
 ---
 
