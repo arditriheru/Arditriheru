@@ -88,17 +88,6 @@ I enjoy turning business processes into **simple, scalable, and maintainable sof
 
 ---
 
-## 📈 Contribution
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=arditriheru&hide_border=true&theme=github-compact" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
